@@ -1,0 +1,82 @@
+.head {
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button {
+  padding: 8px 18px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 60px;
+}
+
+.section {
+  margin: 50px 300px;
+  text-align: center;
+}
+
+.button {
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(0, 157, 255);
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
+.h1 {
+  font-size: 22px;
+  margin-top: 60px;
+}
+
+.button1 {
+  padding-left: 60px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  background-color: antiquewhite;
+  border: none;
+}
+
+.button2 {
+  padding-left: 60px;
+  padding-right: 130px;
+  padding-bottom: 30px;
+  background-color: antiquewhite;
+  border: none;
+}
+
+.button3 {
+  padding: 30px 20px 30px 60px;
+  background-color: black;
+  border: none;
+  color: white;
+}
+
+.section1 {
+  text-align: center;
+}
+
+.prop {
+  margin-left: 20px;
+  line-height: 22px;
+}
+.prop2 {
+  margin-left: 130px;
+}
+
+.last {
+  font-size: 12px;
+  color: gray;
+  display: flex;
+  margin-left: -20px;
+  margin-top: 80px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  line-height: 20px;
+}
+.loyal {
+  margin-left: 100px;
+}
